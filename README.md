@@ -12,7 +12,7 @@ Example of the number:
 # Hardware
 4 x Intel(R) Core(TM) i5 CPU 760 @ 2.80GHz  
 Memory: 15.7 GiB of RAM  
-# Output v1 (java 7)
+# Output
 Execution time: 24.4455 seconds   
 
 1. 1
